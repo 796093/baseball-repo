@@ -6,4 +6,8 @@ body{
 
 	background-image: url("fireball.jpg");
 	color: white;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
 }
